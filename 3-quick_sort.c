@@ -22,7 +22,7 @@ void swap_ints(int *a, int *b)
 }
 
 /**
- * lomuto_partition - Order a subset of an array of integers according to lomuto.
+ * lomuto_partition - Order a subset of an array of integers accordingly
  *
  * @array: The array of integers.
  *
